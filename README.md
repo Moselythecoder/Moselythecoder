@@ -13,7 +13,5 @@ some of the programming languages skills and skills i have been able to acquire 
 6. php
 7.javascript
 8. currently working on a javsscript library called React js
-9. 
 
-
-- 📫 You can Contact me on +254 742606050 or throuh my email moselythecoder@gmail.com
+- 📫 You can Contact me on ++ (+254 742606050 )++or through my email ++ moselythecoder@gmail.com ++
